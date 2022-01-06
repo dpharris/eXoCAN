@@ -8,6 +8,7 @@
         "url":"https://github.com/exothink/eXoCAN.git"
     },
     "version":"1.0.3",
+    "license": "BSD-2-Clause",
     "authors":
     {
         "name": "John Eckert",
