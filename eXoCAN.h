@@ -22,6 +22,10 @@ extended IDs are working                                                        
 constructor now does all the setup                                                         4/27
        bug fix: extended ID filtering wasn't working. Wrong shift + set IDE bit            4/15/21
 */
+
+// not sure why this was done, but this will fix
+#define u_int32_t uint32_t
+
 #include <arduino.h>
 
 //Register addresses
